@@ -55,9 +55,12 @@ and available windows that Claude can use to plan intelligently.
 
 ---
 
-### 🔜 life-compass — Phase 2
-Helps you articulate your values, life vision, and vital areas.
-The foundation that gives meaning to every plan and goal.
+### ✅ [life-compass](./skills/life-compass/) — Phase 2
+Guides any person through a reflective conversation to define their **Life Compass**:
+core values, life vision, vital areas with current vs desired state, and anti-goals.
+Offers a Deep Dive mode (45–60 min) and a Quick Draft mode (15–20 min).
+
+**Output:** Notion page, Markdown file, or plain text.
 
 ---
 
@@ -118,13 +121,15 @@ Skills also support Markdown files and plain text if you don't use Notion.
 
 ## Related repos
 
+- [`pm-ai-skills`](https://github.com/your-username/pm-ai-skills) — Claude skills
+  for product management: CV generation, job search tracking, PM frameworks.
 
 ---
 
 ## Roadmap
 
 - [x] `weekly-availability` — Phase 1
-- [ ] `life-compass` — Phase 2
+- [x] `life-compass` — Phase 2
 - [ ] `goals-system` — Phase 2
 - [ ] `weekly-review` — Phase 3
 - [ ] `daily-planner` — Phase 4
