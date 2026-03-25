@@ -65,8 +65,11 @@ Offers a Deep Dive mode (45–60 min) and a Quick Draft mode (15–20 min).
 ---
 
 ### 🔜 goals-system — Phase 2
-Translates your vision into concrete objectives by life area and quarter.
-Connects to `weekly-availability` so planning always serves real goals.
+Guides any person through defining quarterly goals in two tracks — Professional
+(OKR format) and Personal (Objective format with motivational framing). Reads
+the Life Compass if available to anchor goals to values and vital areas.
+
+**Output:** Notion pages (quarter → Professional + Personal sub-pages), Markdown, or plain text.
 
 ---
 
@@ -130,7 +133,7 @@ Skills also support Markdown files and plain text if you don't use Notion.
 
 - [x] `weekly-availability` — Phase 1
 - [x] `life-compass` — Phase 2
-- [ ] `goals-system` — Phase 2
+- [x] `goals-system` — Phase 2
 - [ ] `weekly-review` — Phase 3
 - [ ] `daily-planner` — Phase 4
 
